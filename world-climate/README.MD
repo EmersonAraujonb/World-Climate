@@ -2,7 +2,7 @@
   💻<br>WORLD CLIMATE
 </h1>
 
-![Resultado final do projeto](./images/preview.png)
+![Resultado final do projeto](./assets/worldClimate.png)
 
 <h4 align="center"><a href="https://portifolio-emerson-araujo.vercel.app/" target="_blank">Clique para visitar o World Climate</a></h4>
 
