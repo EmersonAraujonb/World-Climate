@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className='flex flex-col w-full h-screen items-center justify-center '>
-      <img src='./src/assets/logo.png' alt='World Climate' />
+      <img src='./logo.png' alt='World Climate' />
       <form className='mt-8' onSubmit={handleSubmit}>
         <input
           type='text'
